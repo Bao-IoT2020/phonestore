@@ -40,7 +40,7 @@
                     <div class="col-sm-6">
                         <div class="contactinfo">
                             <ul class="nav nav-pills">
-                                <li><a href="#"><i class="fa fa-phone"></i> 0909239774</a></li>
+                                <li><a href="#"><i class="fa fa-phone"></i> asd</a></li>
                                 <li><a href="#"><i class="fa fa-envelope"></i> DH51704831@student.stu.edu.vn</a></li>
                             </ul>
                         </div>
